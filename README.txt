@@ -1,10 +1,10 @@
 Guitar Hero
 
-This project utilized some of the dat structures that we had begun to learn. In the case of this project, we used queues. 
+This project utilized some of the data structures that we had begun to learn. In the case of this project, we used queues. 
 
-Also, the project utilized some object-orieinted programming. 
+Also, the project utilized some object-oriented programming. 
 
-There are 3 classes in this project that, when used together, produced an audio. 
+There are 3 programs in this project that, when used together, produced an audio of a chromatic scale of a guitar. 
 
 More information on the explanation of this project can be found here: https://introcs.cs.princeton.edu/java/assignments/guitar.html
 
